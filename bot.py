@@ -10,7 +10,7 @@ import time
 # =========================
 
 
-TOKEN = "MTQ5NTc4NTgwNDc4MDQwODk3Mg.G_EFdT.BW_nefWIK3mRFL4U1fVr9n37tKJqTZlfNMVkCA"
+TOKEN = "MTQ5NTc4NTgwNDc4MDQwODk3Mg.GyEqSL.8_x7GFgbQnw0fA85z3fJHndOffmf0mXhEx5F5w"
 
 intents = discord.Intents.default()
 
@@ -185,4 +185,4 @@ async def downrank(interaction: discord.Interaction, wer: discord.Member, rang: 
 # 🚀 START BOT
 # =========================
 
-bot.run("MTQ5NTc4NTgwNDc4MDQwODk3Mg.G_EFdT.BW_nefWIK3mRFL4U1fVr9n37tKJqTZlfNMVkCA")  
+bot.run("MTQ5NTc4NTgwNDc4MDQwODk3Mg.GyEqSL.8_x7GFgbQnw0fA85z3fJHndOffmf0mXhEx5F5w")  
